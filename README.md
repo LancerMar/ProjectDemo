@@ -1,5 +1,3 @@
 # ProjectDemo
-# ProjectDemo
-test for realtime
-for test branch1
-ddd
+
+This is a demo for test Real time embedded

@@ -1,7 +1,7 @@
-include <std>
+#include <iostream>
 
-std::cout << "Hello world" << endl
-
-hello world
-test test
-dajj
+int main()
+{
+	std::cout<<"Hello world"<<std::endl;
+	return 0;
+}

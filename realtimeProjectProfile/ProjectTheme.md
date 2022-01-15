@@ -19,10 +19,15 @@ open string 5 A2 440.0000 / 2 ^ ( 24 / 12 ) = 110.0000 Hz
 
 open string 6 E2 440.0000 / 2 ^ ( 29 / 12 ) = 82.4069 Hz
 
+Cheapest one
+we only need to buy a microphone, I already have a guitar here,Lol
+
 ## 2 gesture detection by using IR proximity sensors (近红外传感器)
 ![](IRApproximitySensorApp.PNG)
 
 
 we can use a IR proximity marix sensors to detect the direction of moving thing. and set several sets of paramaters to define what kind of gesture it is
+
+Unknown but I think it will be more fun than first one,or higher score
 
 ## 3 

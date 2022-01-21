@@ -4,9 +4,12 @@
 int main()
 {
 	unsigned long long int n,sum;
+	int cycleTimes;
 
 	n=1;
 	sum=0;
+	cycleTimes = 100;
+	
 
 	while (n<100)
 	{

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joeyma/myproject/projectDemo/ProjectDemo/fftwDemo/main.cpp
+cstdlib
+-
+iostream
+-
+cmath
+-
+complex
+-
+fstream
+-
+fftw3.h
+-
+

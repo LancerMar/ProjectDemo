@@ -1,3 +1,0 @@
-/home/joeyma/myproject/projectDemo/ProjectDemo/fftwDemo/build/CMakeFiles/rebuild_cache.dir
-/home/joeyma/myproject/projectDemo/ProjectDemo/fftwDemo/build/CMakeFiles/edit_cache.dir
-/home/joeyma/myproject/projectDemo/ProjectDemo/fftwDemo/build/CMakeFiles/fftwDemo.dir

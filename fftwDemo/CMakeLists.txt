@@ -1,7 +1,11 @@
 project(fftwDemo)
 cmake_minimum_required(VERSION 3.16.3)
+set(CMAKE_BUILD_TYPE "Debug")
+set(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXXFLAGS} -O0 -Wall -g2 -ggdb")
+set(CMAKE_CXX_FLAGS_RELEASE "$ENV{CXXFLAGS} -O3 -Wall")
+
 find_package(FFTW3)
-add_executable (fftwDemo main.cpp)
+add_executable (fftwDemo test.cpp)
 if(FFTW3_FOUND)
 	include_directories(${FFTW3_INCLUDE_DIRS})
 	link_directories(${FFTW3_LIBRARY_DIRS})
